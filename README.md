@@ -53,8 +53,8 @@
 
 ## Sobre mim
 
-Olá! Eu sou o João Pedro, Software Developer apaixonado por criar soluções para problemas reais. Minha jornada na tecnologia começou na Universidade de Franca (UNIFRAN), onde curso Análise e Desenvolvimento de Sistemas e venho construindo uma base sólida que me permite transitar com fluidez entre o frontend e o backend. Na prática, isso virou o Nego Black, um sistema de agendamento para barbearia que desenvolvi do banco de dados até a interface.
+Olá! Eu sou o João Pedro, Software Developer apaixonado por tecnologia e por transformar ideias em soluções práticas. Minha jornada na área começou na Universidade de Franca (UNIFRAN), onde curso Análise e Desenvolvimento de Sistemas e venho construindo uma base sólida que me permite atuar tanto no frontend quanto no backend.
 
-No dia a dia, trabalho principalmente com TypeScript, dos dois lados: Next.js para construir interfaces dinâmicas no frontend e Node.js no backend. Quando o assunto é banco de dados, me sinto em casa com MySQL. E conto com o Docker para manter tudo rodando igual, do meu ambiente até o servidor.
+No dia a dia, trabalho principalmente com TypeScript, usando Next.js para criar interfaces dinâmicas no frontend e Node.js no backend. Também utilizo MySQL para bancos de dados e Docker para manter ambientes consistentes entre desenvolvimento e produção. Estou sempre buscando evoluir minhas habilidades, aprender novas tecnologias e criar soluções cada vez mais eficientes e bem estruturadas.
 
 ---
