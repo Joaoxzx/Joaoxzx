@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Joaoxzx&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=2" height="150" alt="streak graph" />
+  <img src="./profile/streak.svg" height="150" alt="streak graph" />
 </div>
 
 ###
