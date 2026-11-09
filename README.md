@@ -57,4 +57,6 @@ Olá! Eu sou o João Pedro, Software Developer apaixonado por tecnologia e por t
 
 No dia a dia, trabalho principalmente com TypeScript, usando Next.js para criar interfaces dinâmicas no frontend e Node.js no backend. Também utilizo MySQL para bancos de dados e Docker para manter ambientes consistentes entre desenvolvimento e produção. Estou sempre buscando evoluir minhas habilidades, aprender novas tecnologias e criar soluções cada vez mais eficientes e bem estruturadas.
 
+Hoje desenvolvo o sistema de agendamento da Barbearia Nego Black, um projeto real em produção. Portfólio: [jotap.dev](https://jotap.dev)
+
 ---
